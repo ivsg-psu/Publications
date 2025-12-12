@@ -88,15 +88,17 @@ Welcome to the IVSG hub for repos related to our publications. Specifically, thi
 <!-- CONFERENCES -->
 <details closed>
   <summary> Click to see/unsee </summary>
+  2022
   <ul>
-    2022
     <li>
       <a href="https://github.com/ivsg-psu/Publications_Conferences_2022RSS/wiki">
       Publications_Conferences_2022RSS
       </a>
       This is code for the 2022 RSS conference paper submission on friction patches.
     </li>
-    2023
+  </ul>
+  2023
+  <ul>
     <li>
       <a href="https://github.com/ivsg-psu/Publications_Conferences_2023CCTA_RoadNetworkFrictionAnalysis">
       Publications_Conferences_2023CCTA_RoadNetworkFrictionAnalysis
@@ -109,12 +111,23 @@ Welcome to the IVSG hub for repos related to our publications. Specifically, thi
       </a>
       This is code for the 2023 IEEE Conference on Control Technology Applications, for Juliette Mitrovich's paper  synthesizing feasible vehicle trajectories from microscopic traffic simulations.
     </li>
-    2025
+  </ul>
+  2024
+  <ul>
+  </ul>
+  2025
+  <ul>
     <li>
       <a href="https://github.com/ivsg-psu/Publications_Conferences_2025MECC_VgraphCorridor">
       Publications_Conferences_2025MECC_VgraphCorridor
       </a>
       This is code for the 2025 Modeling, Estimation, and Control Conference in Pittsburg, PA, for Steve Harnett's paper on using visibility graphs to estimate corridor widths for path planning.
+    </li>
+    <li>
+      <a href="https://github.com/ivsg-psu/Publications_Conferences_2025MECC_CV2XPerformanceInWorkZones">
+      Publications_Conferences_2025MECC_CV2XPerformanceInWorkZones
+      </a>
+      This is code for the 2025 Modeling, Estimation, and Control Conference in Pittsburg, PA, for Yao Sun's paper on measuring CV2X coverage in work zones.
     </li>
   </ul>
 </details>
